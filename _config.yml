@@ -1,7 +1,12 @@
 title: Your awesome title
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-    Asdasdasdasdasdasdasdasd\-'asdasdasdas'sadasdasd
+    Asdasdasdasdasdasdasdasd\-'asdasdasdas'sadasdas
+dasdsadasdasbdkaskdsakj dkasndkjas dkj asjkd kjas dkj asd
+asdasda
+sdasdas
+dsad
+asdasd
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://cyobb.com/testingg" # the base hostname & protocol for your site
